@@ -3,6 +3,8 @@ Hi my name is Amin and I love Data.  I'm currently pursuing a Master's Degree in
 data. r Studio, Jupyter Notebook, and Spyder to name a few. Looking forward to sharing some of my charts, graphs and data analysis with you. 
 
 
+## Skills
+*  ![image](https://user-images.githubusercontent.com/86753748/160209798-f1750d11-5276-40b8-8afe-75c9f8bae855.png)
 
 
 
